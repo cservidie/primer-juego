@@ -11,11 +11,11 @@
   "defaultScriptType":0,
   "Folders":[
     {"$GMFolder":"","%Name":"comida","folderPath":"folders/comida.yy","name":"comida","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"protas","folderPath":"folders/personajes/protas.yy","name":"protas","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"habitaciones","folderPath":"folders/habitaciones.yy","name":"habitaciones","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"muros","folderPath":"folders/muros.yy","name":"muros","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"personajes","folderPath":"folders/personajes.yy","name":"personajes","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"enemies","folderPath":"folders/personajes/enemies.yy","name":"enemies","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"protas","folderPath":"folders/personajes/protas.yy","name":"protas","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"sonido","folderPath":"folders/sonido.yy","name":"sonido","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"sprites","folderPath":"folders/sprites.yy","name":"sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],

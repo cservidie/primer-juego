@@ -1,10 +1,10 @@
 {
   "FolderOrderSettings":[
     {"name":"comida","order":9,"path":"folders/comida.yy",},
-    {"name":"protas","order":1,"path":"folders/personajes/protas.yy",},
     {"name":"habitaciones","order":14,"path":"folders/habitaciones.yy",},
     {"name":"muros","order":13,"path":"folders/muros.yy",},
     {"name":"personajes","order":12,"path":"folders/personajes.yy",},
+    {"name":"protas","order":1,"path":"folders/personajes/protas.yy",},
     {"name":"sonido","order":10,"path":"folders/sonido.yy",},
     {"name":"sprites","order":15,"path":"folders/sprites.yy",},
   ],

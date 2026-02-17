@@ -1,3 +1,4 @@
+// Cambiado
 //movimiento x
 
 x += move_speed;
